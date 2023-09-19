@@ -1,4 +1,4 @@
-# Compilers - COMP - FEUP
+# Computer Graphics - CGRA - FEUP
 
 Project and exercises developed during the 2nd semester of the 2022/2023 academic year:
 
